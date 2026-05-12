@@ -15,8 +15,8 @@ A responsive web player UI clone of Spotify built with HTML and CSS. This projec
 * Google Fonts (Montserrat)
 
 ## 📸 Preview
-![Project Screenshot](logo.png) 
-*(Replace logo.png with an actual screenshot of your site later!)*
+<img src="logo.png" alt="Spotify Logo" width="100">
+
 
 ## 📝 Author
 Ayush Verma
