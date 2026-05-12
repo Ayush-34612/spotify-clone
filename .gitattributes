@@ -1,3 +1,4 @@
+* linguist-vendored=false
+* linguist-documentation=false
 *.html linguist-detectable=true
 *.css linguist-detectable=true
-*.css linguist-documentation=false
